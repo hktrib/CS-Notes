@@ -1,0 +1,6 @@
+- Wake Up Chant one hour of solid japa before 10
+- 10-12 Distributed Lecture
+- 12-2 115a Crud testing
+- 4-6 115a Design
+- 6-8 Distributed Notes and lecture
+- 8-10 Tech4Good Onboarding
